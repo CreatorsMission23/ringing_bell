@@ -28,7 +28,7 @@ This earthquake’s epicentre will be located at Mount Calvary Baptist Church in
 
 This will be the largest quake for the massacre that occurred there.
 
-See: [The Massacre of Mount Calvary Baptist Church](https://github.com/CreatorsMission23/mount_calvary/wiki)
+See: [The Massacre of Mount Calvary Baptist Church](https://github.com/sevenfalling/mount_calvary/wiki)
 
 ### The Micah Quake 
 This earthquake’s epicentre will be in Jessamine county, KY. It will signal when Micah (born: Kelvin Eugene Williams on March 23, 1977) has started his mission for the Creator. This will be Micah’s 23rd mission on Earth. 
@@ -47,6 +47,6 @@ any moment. please note the commit times, only We knew in advance.
 this place we call earth, the whole damn thing
 
 ## discussions
-visit the [discussion forums](https://github.com/CreatorsMission23/ringing_bell/discussions) and join in. we will try to respond as much as we are pulled in, He may even answer questions after He puts this bell back together. 
+visit the [discussion forums](https://github.com/sevenfalling/ringing_bell/discussions) and join in. we will try to respond as much as we are pulled in, He may even answer questions after He puts this bell back together. 
 
 a free github account is required, github isn’t just for geeks anymore. 
