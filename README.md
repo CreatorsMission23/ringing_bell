@@ -46,6 +46,9 @@ any moment. please note the commit times, only We knew in advance.
 ## where
 this place we call earth, the whole damn thing
 
+## media information
+broadcast and print media professionals should see the media repository [here](https://github.com/sevenfalling/media).
+
 ## discussions
 visit the [discussion forums](https://github.com/sevenfalling/ringing_bell/discussions) and join in. we will try to respond as much as we are pulled in, He may even answer questions after He puts this bell back together. 
 
